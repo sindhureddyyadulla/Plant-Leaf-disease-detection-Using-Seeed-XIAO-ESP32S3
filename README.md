@@ -39,7 +39,7 @@ This project integrates embedded systems and AI/ML to detect plant leaf diseases
 - To start the development server
     **npm start**
 ### Runs the app in the development mode.
--- Open http://localhost:3000 to view it in the browser.
+- Open http://localhost:3000 to view it in the browser.
 
 
 
