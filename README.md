@@ -35,6 +35,12 @@ This project integrates embedded systems and AI/ML to detect plant leaf diseases
 - **ML Model**: TensorFlow / LLM (hosted or embedded)
 - **Communication**: REST APIs over Wi-Fi
 
-** Running the App **
+### Running the App 
 - To start the development server
-** npm start **
+    **npm start**
+### Runs the app in the development mode.
+-- Open http://localhost:3000 to view it in the browser.
+
+
+
+  
