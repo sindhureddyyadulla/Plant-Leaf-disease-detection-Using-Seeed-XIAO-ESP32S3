@@ -17,13 +17,14 @@ This project integrates embedded systems and AI/ML to detect plant leaf diseases
 
 ### 🔧 Hardware
 - Seeed Studio XIAO ESP32S3
-- Sensors: Camera (for leaf images), Temperature/Humidity (optional)
-- Power: USB/Rechargeable Battery
+- **Sensors**: Camera (for leaf images)
+- **Power**: USB/Rechargeable Battery
+- **Buzzer**: For Disease Detection
+- **LED**: Green for NO Disease, Red for Disease.
 
 ### 💻 Software
 - **Frontend**: React + Axios
 - **Backend (ESP32)**: Arduino framework (ESP-IDF compatible)
 - **ML Model**: TensorFlow / LLM (hosted or embedded)
 - **Communication**: REST APIs over Wi-Fi
-- **Buzzer**: For Disease Detection
-- **LED**: Green for NO Disease, Red for Disease.
+
