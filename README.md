@@ -13,11 +13,11 @@ This project integrates embedded systems and AI/ML to detect plant leaf diseases
 
 -----
 ## ✨ Features
-📷 Capture leaf image and send to backend
-🤖 Classify leaf disease using ML model
-💬 Query LLM API for recommended remedies
-🧪 View results in real-time on React UI
-📶 Wi-Fi-based communication between frontend and ESP32
+- 📷 Capture leaf image and send to backend.
+- 🤖 Classify leaf disease using ML model.
+- 💬 Query LLM API for recommended remedies.
+- 🧪 View results in real-time on React UI.
+- 📶 Wi-Fi-based communication between frontend and ESP32.
 
 ---------
 ## 🧰 Tech Stack
